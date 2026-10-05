@@ -1,0 +1,4 @@
+/node_modules
+
+# Include the whole folder
+**/node_modules/\nfrontend/node_modules/frontend/node_modules
